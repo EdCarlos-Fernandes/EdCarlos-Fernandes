@@ -5,7 +5,7 @@
   ![Snake animation](https://github.com/caiqueborghese/caiqueborghese/blob/output/github-contribution-grid-snake.svg)
  </div>
 
-<div align="right">
+<div align="left">
   <a href="https://github.com/EdCarlos-Fernandes">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=EdCarlos-Fernandes&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 </div>
