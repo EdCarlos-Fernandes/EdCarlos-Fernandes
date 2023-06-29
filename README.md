@@ -10,7 +10,7 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=EdCarlos-Fernandes&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 </div>
 
-<div style="display: flex;justify-content: flex-end;"><br>
+<div style="display: flex;justify-content: flex-end;float: right;"><br>
   <img align="center" alt="ED-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ED-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ED-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
