@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
   
-  ![Snake animation](https://github.com/caiqueborghese/caiqueborghese/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github.com/EdCarlos-Fernandes/EdCarlos-Fernandes/blob/main/github-contribution-grid-snake.svg" alt="joguinho snake">
 </div>
 
 <div align="left">
