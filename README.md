@@ -11,8 +11,8 @@
 
 <div align="left">
   <a href="https://github.com/EdCarlos-Fernandes">
-  <img height="150em" width="300wm" src="https://github-readme-stats.vercel.app/api?username=EdCarlos-Fernandes&show_icons=true&theme=dark#gh-dark-mode-only"/>
-  <img height="150em" width="300wm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdCarlos-Fernandes&layout=compact"/>
+  <img height="150em" width="300em" src="https://github-readme-stats.vercel.app/api?username=EdCarlos-Fernandes&show_icons=true&theme=dark#gh-dark-mode-only"/>
+  <img height="150em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdCarlos-Fernandes&layout=compact"/>
 </div>
 
 <div align="right"><br>
