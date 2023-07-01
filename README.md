@@ -11,6 +11,7 @@
 
 <div align="left">
   <a href="https://github.com/EdCarlos-Fernandes">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=EdCarlos-Fernandes&show_icons=true&theme=dark#gh-dark-mode-only"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdCarlos-Fernandes&layout=compact"/>
 </div>
 
