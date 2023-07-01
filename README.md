@@ -12,8 +12,8 @@
 <div align="left">
   <a href="https://github.com/EdCarlos-Fernandes">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=EdCarlos-Fernandes&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-    [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=EdCarlos-Fernandes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+    [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=EdCarlos-Fernandes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="right"><br>
   <img align="center" alt="ED-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
