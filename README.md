@@ -13,6 +13,7 @@
   <a href="https://github.com/EdCarlos-Fernandes">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=EdCarlos-Fernandes&show_icons=true&theme=dark#gh-dark-mode-only"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdCarlos-Fernandes&layout=compact"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/pin/?username=EdCarlos-Fernandes&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats"/>
 </div>
 
 <div align="right"><br>
