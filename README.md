@@ -9,3 +9,14 @@
   <img align="center" alt="ED-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ED-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+
+<div> 
+  <a href = "edcarlosfernandes017@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail">
+  </a>
+  <a href="https://www.linkedin.com/in/edcarlos-fernandes" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+  </a>
+  
+  <img src="https://github.com/EdCarlos-Fernandes/EdCarlos-Fernandes/blob/main/github-contribution-grid-snake.svg" alt="joguinho snake">
+</div>
