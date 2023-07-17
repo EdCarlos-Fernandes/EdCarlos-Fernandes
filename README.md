@@ -3,9 +3,10 @@
 🎯 Meu objetivo é ser um desenvolvedor Full Stack
 <br />
 📘 cursando 2º semestre em Análise e Desenvolvimento de Sistemas
-<div src="https://img.shields.io/badge/Estudando Angular-808080">
-  
+<div style="background-color: #808080; color: white; padding: 5px;">
+  Estudando
 </div>
+
 
 
 <img align="center" alt="ED-Angular" width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> Estudando Angular
