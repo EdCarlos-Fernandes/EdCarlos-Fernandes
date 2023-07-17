@@ -1,5 +1,5 @@
 🔭 Apaixonado por tecnologia<br>
-📚 Estudando PHP<br>
+📚 Estudando Angular<br />
 📘 cursando 1º semestre em Análise e Desenvolvimento de Sistemas<br>
 🎯 Meu objetivo é ser um desenvolvedor Full Stack
 
