@@ -16,7 +16,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdCarlos-Fernandes&layout=compact"/>
 </div>
 
-### Ferramentas e Tecnologias:
+### Contatos:
 <div>
   <img align="center" alt="ED-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ED-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
