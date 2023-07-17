@@ -27,7 +27,7 @@
 
 ### Contatos:
 <div> 
-  <a href = "mailto:edcarlosfernandes017@gmail.com" target="_blank">
+  <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=edcarlosfernandes017@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail">
   </a>
   <a href="https://www.linkedin.com/in/edcarlos-fernandes" target="_blank">
