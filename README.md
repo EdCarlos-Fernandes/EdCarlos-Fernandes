@@ -1,7 +1,9 @@
 🔭 Apaixonado por tecnologia
 <br />
 📚 Estudando Angular
-📚 Estudando TypeScripthttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
+<br />
+📚 Estudando TypeScript
+<br />
 📚 Estudando SQL Server
 <br />
 📘 cursando 2º semestre em Análise e Desenvolvimento de Sistemas
