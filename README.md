@@ -3,9 +3,10 @@
 🎯 Meu objetivo é ser um desenvolvedor Full Stack
 <br />
 📘 cursando 2º semestre em Análise e Desenvolvimento de Sistemas
-<div style="background-color: #808080; color: white; padding: 5px;">
-  Estudando
+<div style="background-color: #808080; padding: 5px; display: inline-block;">
+  <span style="color: white;">estudando</span>
 </div>
+
 
 
 
