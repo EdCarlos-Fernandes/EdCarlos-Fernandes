@@ -25,8 +25,7 @@
   <img align="center" alt="ED-Bootstrap" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="ED-SQL_Server" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   <img align="center" alt="ED-Git" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  
-  <i class="devicon-microsoftsqlserver-plain-wordmark"></i>
+  <img align="center" alt="ED-WebStorm" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" />
 </div>
 
 <br />
