@@ -16,7 +16,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdCarlos-Fernandes&layout=compact"/>
 </div>
 
-### Contatos:
+### Ferramentas e Tecnologias:
 <div>
   <img align="center" alt="ED-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ED-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -28,7 +28,7 @@
 
 <br />
 
-### Ferramentas e Tecnologias:
+### Contatos:
 <div> 
   <a href = "edcarlosfernandes017@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail">
