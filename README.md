@@ -2,7 +2,7 @@
 <br />
 <img align="center" alt="ED-Angular" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />Estudando Angular
 <br />
-📚 Estudando TypeScript
+  <img align="center" alt="ED-Ts" height="20" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">Estudando TypeScript
 <br />
 📚 Estudando SQL Server
 <br />
