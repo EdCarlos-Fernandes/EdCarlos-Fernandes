@@ -1,7 +1,7 @@
 🔭 Apaixonado por tecnologia
 <br />
-<img src="https://img.shields.io/badge/Cursando-2º%20semestre%20de%20Análise%20e%20Desenvolvimento%20de%20Sistemas-FF69B4?style=for-the-badge" alt="Cursando 2º semestre de Análise e Desenvolvimento de Sistemas">
-<img src="https://img.shields.io/badge/Término-2025-66CCFF?style=for-the-badge" alt="Término em 2025">
+<img src="https://img.shields.io/badge/Cursando-2º%20semestre%20de%20Análise%20e%20Desenvolvimento%20de%20Sistemas-FF1493?style=for-the-badge" alt="Cursando 2º semestre de Análise e Desenvolvimento de Sistemas">
+<img src="https://img.shields.io/badge/Término-2025-6b088b?style=for-the-badge" alt="Término em 2025">
 <br />
 
 🎯 Meu objetivo é ser um desenvolvedor Full Stack
