@@ -1,15 +1,18 @@
 🔭 Apaixonado por tecnologia
 <br />
-<img align="center" alt="ED-Angular" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> Estudando Angular
-<br />
-<img align="center" alt="ED-Ts" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> Estudando 
-TypeScript
-<br />
-<img align="center" alt="ED-SQL_Server" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> Estudando SQL Server
-<br />
 📘 cursando 2º semestre em Análise e Desenvolvimento de Sistemas
 <br />
 🎯 Meu objetivo é ser um desenvolvedor Full Stack
+<br />
+
+<img align="center" alt="ED-Angular" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> Estudando Angular
+<br />
+
+<img align="center" alt="ED-Ts" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> Estudando 
+TypeScript
+<br />
+
+<img align="center" alt="ED-SQL_Server" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> Estudando SQL Server
 
 <div align="left">
   <a href="https://github.com/EdCarlos-Fernandes">
