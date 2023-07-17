@@ -1,8 +1,8 @@
 🔭 Apaixonado por tecnologia
 <br />
-📘 cursando 2º semestre em Análise e Desenvolvimento de Sistemas
-<br />
 🎯 Meu objetivo é ser um desenvolvedor Full Stack
+<br />
+📘 cursando 2º semestre em Análise e Desenvolvimento de Sistemas
 <br />
 
 <img align="center" alt="ED-Angular" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> Estudando Angular
