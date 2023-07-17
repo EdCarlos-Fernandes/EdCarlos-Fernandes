@@ -1,10 +1,10 @@
 🔭 Apaixonado por tecnologia
 <br />
+<img src="https://img.shields.io/badge/Cursando-2º%20semestre%20de%20Análise%20e%20Desenvolvimento%20de%20Sistemas-FFD1DC?style=for-the-badge" alt="Cursando 2º semestre de Análise e Desenvolvimento de Sistemas">
+<br />
+<br />
 🎯 Meu objetivo é ser um desenvolvedor Full Stack
 <br />
-<br />
-<img src="https://img.shields.io/badge/Cursando-2º%20semestre%20de%20Análise%20e%20Desenvolvimento%20de%20Sistemas-FFD1DC?style=for-the-badge" alt="Cursando 2º semestre de Análise e Desenvolvimento de Sistemas">
-
 <img src="https://img.shields.io/badge/-Estudando%20Angular-808080?logo=angular&logoColor=red" alt="Estudando Angular"> <img src="https://img.shields.io/badge/-Estudando%20TypeScript-808080?logo=typescript&logoColor=blue" alt="Estudando TypeScript"> <img src="https://img.shields.io/badge/-Estudando%20SQL%20Server-808080?logo=microsoft-sql-server&logoColor=white" alt="Estudando SQL Server">
 
 
