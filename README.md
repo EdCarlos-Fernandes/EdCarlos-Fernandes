@@ -2,8 +2,8 @@
 <br />
 <img align="center" alt="ED-Angular" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> Estudando Angular
 <br />
-<img align="center" alt="ED-Ts" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">Estudando 
- TypeScript
+<img align="center" alt="ED-Ts" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> Estudando 
+TypeScript
 <br />
 <img align="center" alt="ED-SQL_Server" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> Estudando SQL Server
 <br />
