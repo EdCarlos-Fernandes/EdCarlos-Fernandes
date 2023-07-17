@@ -1,14 +1,3 @@
-<div> 
-  <a href = "edcarlosfernandes017@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail">
-  </a>
-  <a href="https://www.linkedin.com/in/edcarlos-fernandes" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
-  </a>
-  
-  <img src="https://github.com/EdCarlos-Fernandes/EdCarlos-Fernandes/blob/main/github-contribution-grid-snake.svg" alt="joguinho snake">
-</div>
-
 <div align="left">
   <a href="https://github.com/EdCarlos-Fernandes">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EdCarlos-Fernandes&show_icons=true&theme=dark#gh-dark-mode-only"/>
