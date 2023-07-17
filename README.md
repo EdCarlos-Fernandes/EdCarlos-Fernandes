@@ -1,6 +1,11 @@
-🔭 Apaixonado por tecnologia<br>
-📚 Estudando Angular<br />
-📘 cursando 1º semestre em Análise e Desenvolvimento de Sistemas<br>
+🔭 Apaixonado por tecnologia
+<br />
+📚 Estudando Angular
+📚 Estudando TypeScripthttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
+📚 Estudando SQL Server
+<br />
+📘 cursando 2º semestre em Análise e Desenvolvimento de Sistemas
+<br />
 🎯 Meu objetivo é ser um desenvolvedor Full Stack
 
 <div align="left">
@@ -20,7 +25,7 @@
 </div>
 
 <br />
-
+### Contatos:
 <div> 
   <a href = "edcarlosfernandes017@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail">
