@@ -4,7 +4,7 @@
 <br />
 📘 cursando 2º semestre em Análise e Desenvolvimento de Sistemas
 
-<img src="https://img.shields.io/badge/-Estudando%20Angular-808080?logo=angular&logoColor=red" alt="Estudando Angular"> <img src="https://img.shields.io/badge/-Estudando%20TypeScript-808080?logo=typescript&logoColor=blue" alt="Estudando TypeScript"> <img src="https://img.shields.io/badge/-SQL%20Server-808080?logo=microsoft-sql-server&logoColor=black" alt="SQL Server">
+<img src="https://img.shields.io/badge/-Estudando%20Angular-808080?logo=angular&logoColor=red" alt="Estudando Angular"> <img src="https://img.shields.io/badge/-Estudando%20TypeScript-808080?logo=typescript&logoColor=blue" alt="Estudando TypeScript"> <img src="https://img.shields.io/badge/-Estudando%20SQL%20Server-808080?logo=microsoft-sql-server&logoColor=white" alt="Estudando SQL Server">
 
 
 <div align="left">
