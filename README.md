@@ -1,6 +1,6 @@
 🔭 Apaixonado por tecnologia
 <br />
-📚 Estudando Angular
+📚<img align="center" alt="ED-Angular" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />Estudando Angular
 <br />
 📚 Estudando TypeScript
 <br />
