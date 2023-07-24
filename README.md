@@ -10,7 +10,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdCarlos-Fernandes&layout=compact"/>
 </div>
 
-### Ferramentas e Tecnologias:
+### 👨‍💻 Ferramentas e Tecnologias
 <div>
   <img align="center" alt="ED-HTML" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ED-CSS" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -25,7 +25,12 @@
 
 <br />
 
-### Contatos:
+### 🏆 troféus 
+  <img src="https://github-profile-trophy.vercel.app/?username=EdCarlos-Fernandes&theme=dark&column=7" height="150" style="border-radius:50px;"/>
+
+<br />
+
+### 🏆 Contato
 <div> 
   <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=edcarlosfernandes017@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail">
