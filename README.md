@@ -4,11 +4,11 @@
 <img src="https://img.shields.io/badge/-Estudando%20Angular-808080?style=for-the-badge&logo=angular&logoColor=red&color=aliceblue" alt="Estudando Angular" style="height: 22px;"> <img src="https://img.shields.io/badge/-Estudando%20TypeScript-808080?style=for-the-badge&logo=typescript&logoColor=blue&color=aliceblue" alt="Estudando TypeScript" style="height: 22px;"> <img src="https://img.shields.io/badge/-Estudando%20SQL%20Server-808080?style=for-the-badge&logo=microsoftsqlserver&logoColor=black&color=aliceblue" alt="Estudando SQL Server" style="height: 22px;">
 
 
-<div align="left">
+<!-- <div align="left">
   <a href="https://github.com/EdCarlos-Fernandes">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=EdCarlos-Fernandes&show_icons=true&theme=dark#gh-dark-mode-only"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdCarlos-Fernandes&layout=compact"/>
-</div>
+</div> -->
 
 ### 👨‍💻 Ferramentas e Tecnologias
 <div>
