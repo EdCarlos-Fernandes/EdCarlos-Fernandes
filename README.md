@@ -23,8 +23,6 @@
   <img align="center" alt="ED-WebStorm" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" />
 </div>
 
-<br />
-
 ### 🏆 troféus 
   <img src="https://github-profile-trophy.vercel.app/?username=EdCarlos-Fernandes&theme=dark&column=7" height="150" style="border-radius:50px;"/>
 
