@@ -38,4 +38,4 @@
  </a>
 </div>
 
-<img src="https://github.com/EdCarlos-Fernandes/EdCarlos-Fernandes/blob/main/github-contribution-grid-snake.svg" alt="joguinho snake">
+<img src="https://github.com/EdCarlos-Fernandes/EdCarlos-Fernandes/blob/main/ed-snake.svg" alt="joguinho snake">
