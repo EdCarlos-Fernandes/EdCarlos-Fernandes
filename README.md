@@ -38,4 +38,8 @@
  </a>
 </div>
 
-<img src="https://github.com/EdCarlos-Fernandes/EdCarlos-Fernandes/blob/main/ed-snake.svg" alt="joguinho snake">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img src="https://github.com/EdCarlos-Fernandes/EdCarlos-Fernandes/blob/main/ed-snake.svg" alt="joguinho snake">
+</picture>
