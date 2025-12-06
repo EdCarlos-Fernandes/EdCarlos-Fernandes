@@ -6,8 +6,8 @@
 
 <div align="left">
   <a href="https://github.com/EdCarlos-Fernandes">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=EdCarlos-Fernandes&show_icons=true&theme=dark#gh-dark-mode-only" title="GitHub status"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdCarlos-Fernandes&layout=compact" title="Linguagens utilizadas"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=EdCarlos-Fernandes&show_icons=true&theme=dark" title="GitHub status"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdCarlos-Fernandes&layout=compact&theme=dark" title="Linguagens utilizadas"/>
 </div>
 
 ### 👨‍💻 Ferramentas e Tecnologias
@@ -48,11 +48,11 @@
 
 
 <div align="center">
-  <p align="centre">
+  <p align="center">
     <b>Visitantes</b>
   </p>
   
   <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/{EdCarlos-Fernandes}/count.svg" />
+    <img align="center" src="https://komarev.com/ghpvc/?username=EdCarlos-Fernandes&color=blueviolet&style=flat-square" alt="Profile views"/>
   </p> 
 </div>
